@@ -1,0 +1,18 @@
+C:\Users\kars3>tracert google.com
+
+Tracing route to google.com [142.251.41.46]
+over a maximum of 30 hops:
+
+  1     2 ms     2 ms     3 ms  10.4.128.1
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     6 ms     3 ms     3 ms  yyz12s08-in-f14.1e100.net [142.251.41.46]
+
+Trace complete.
+
+C:\Users\kars3>

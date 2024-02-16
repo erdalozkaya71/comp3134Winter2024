@@ -1,0 +1,45 @@
+root@comp3134Winter2024:~# apt-get install traceroute
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following NEW packages will be installed:
+  traceroute
+0 upgraded, 1 newly installed, 0 to remove and 64 not upgraded.
+Need to get 45.4 kB of archives.
+After this operation, 152 kB of additional disk space will be used.
+Get:1 http://mirrors.digitalocean.com/ubuntu jammy/universe amd64 traceroute amd64 1:2.1.0-2 [45.4 kB]
+Fetched 45.4 kB in 6s (7249 B/s)
+Selecting previously unselected package traceroute.
+(Reading database ... 97407 files and directories currently installed.)
+Preparing to unpack .../traceroute_1%3a2.1.0-2_amd64.deb ...
+Unpacking traceroute (1:2.1.0-2) ...
+Setting up traceroute (1:2.1.0-2) ...
+update-alternatives: using /usr/bin/traceroute.db to provide /usr/bin/traceroute (traceroute) in auto mode
+update-alternatives: using /usr/bin/traceroute6.db to provide /usr/bin/traceroute6 (traceroute6) in auto mode
+update-alternatives: using /usr/bin/lft.db to provide /usr/bin/lft (lft) in auto mode
+update-alternatives: using /usr/bin/traceproto.db to provide /usr/bin/traceproto (traceproto) in auto mode
+update-alternatives: using /usr/sbin/tcptraceroute.db to provide /usr/sbin/tcptraceroute (tcptraceroute) in auto mode
+Processing triggers for man-db (2.10.2-1) ...
+Scanning processes...
+Scanning linux images...
+
+Running kernel seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+root@comp3134Winter2024:~# traceroute_1.txt
+traceroute_1.txt: command not found
+root@comp3134Winter2024:~# traceroute google.com
+traceroute to google.com (142.251.32.78), 30 hops max, 60 byte packets
+ 1  162.243.190.8 (162.243.190.8)  1.475 ms  1.517 ms 162.243.190.9 (162.243.190.9)  1.433 ms
+ 2  143.198.252.198 (143.198.252.198)  2.003 ms 143.198.252.196 (143.198.252.196)  1.972 ms 143.198.252.194 (143.198.252.194)  1.518 ms
+ 3  162.243.190.33 (162.243.190.33)  12.296 ms  12.280 ms 72.14.219.10 (72.14.219.10)  1.715 ms
+ 4  192.178.99.33 (192.178.99.33)  2.147 ms 192.178.98.113 (192.178.98.113)  4.199 ms 192.178.99.33 (192.178.99.33)  2.176 ms
+ 5  142.251.68.27 (142.251.68.27)  1.909 ms 142.251.68.25 (142.251.68.25)  2.077 ms 142.251.68.27 (142.251.68.27)  1.953 ms
+ 6  yyz12s07-in-f14.1e100.net (142.251.32.78)  2.152 ms  1.015 ms  0.942 ms
+root@comp3134Winter2024:~#

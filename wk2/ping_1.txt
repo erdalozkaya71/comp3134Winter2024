@@ -1,0 +1,54 @@
+root@comp3134Winter2024:~# apt-get update
+Get:1 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]
+Hit:2 http://mirrors.digitalocean.com/ubuntu jammy InRelease
+Get:3 http://mirrors.digitalocean.com/ubuntu jammy-updates InRelease [119 kB]
+Hit:4 https://repos-droplet.digitalocean.com/apt/droplet-agent main InRelease
+Hit:5 http://mirrors.digitalocean.com/ubuntu jammy-backports InRelease
+Hit:6 https://ppa.launchpadcontent.net/ondrej/php/ubuntu jammy InRelease
+Get:7 http://mirrors.digitalocean.com/ubuntu jammy-updates/main amd64 Packages [1377 kB]
+Get:8 http://mirrors.digitalocean.com/ubuntu jammy-updates/universe amd64 Packages [1049 kB]
+Get:9 http://mirrors.digitalocean.com/ubuntu jammy-updates/multiverse amd64 Packages [42.1 kB]
+Fetched 2698 kB in 8s (346 kB/s)
+Reading package lists... Done
+root@comp3134Winter2024:~# apt-get install apache2-utils
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+apache2-utils is already the newest version (2.4.52-1ubuntu4.7).
+0 upgraded, 0 newly installed, 0 to remove and 64 not upgraded.
+root@comp3134Winter2024:~# ping google.com
+PING google.com (142.251.32.78) 56(84) bytes of data.
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=1 ttl=120 time=1.48 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=2 ttl=120 time=0.912 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=3 ttl=120 time=0.925 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=4 ttl=120 time=0.852 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=5 ttl=120 time=0.898 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=6 ttl=120 time=0.919 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=7 ttl=120 time=0.912 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=8 ttl=120 time=0.867 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=9 ttl=120 time=0.968 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=10 ttl=120 time=0.916 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=11 ttl=120 time=0.933 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=12 ttl=120 time=0.892 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=13 ttl=120 time=0.836 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=14 ttl=120 time=0.910 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=15 ttl=120 time=0.997 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=16 ttl=120 time=0.880 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=17 ttl=120 time=0.909 ms
+^C
+--- google.com ping statistics ---
+17 packets transmitted, 17 received, 0% packet loss, time 16027ms
+rtt min/avg/max/mdev = 0.836/0.941/1.482/0.140 ms
+root@comp3134Winter2024:~# ping google.com -w 5
+PING google.com (142.251.32.78) 56(84) bytes of data.
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=1 ttl=120 time=1.46 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=2 ttl=120 time=0.916 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=3 ttl=120 time=0.847 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=4 ttl=120 time=0.940 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=5 ttl=120 time=0.834 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 0.834/0.998/1.455/0.231 ms
+root@comp3134Winter2024:~# ^C
+root@comp3134Winter2024:~#

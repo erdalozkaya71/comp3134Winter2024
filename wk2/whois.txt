@@ -1,0 +1,701 @@
+Whois Record for Google.com
+How does this work?
+
+ Domain Profile
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+IANA ID: 292
+URL: http://www.markmonitor.com
+Whois Server: whois.markmonitor.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited
+Dates	9,650 days old
+Created on 1997-09-15
+Expires on 2028-09-13
+Updated on 2019-09-09	  
+Name Servers	NS1.GOOGLE.COM (has 27,116 domains)
+NS2.GOOGLE.COM (has 27,116 domains)
+NS3.GOOGLE.COM (has 27,116 domains)
+NS4.GOOGLE.COM (has 27,116 domains)
+  
+IP Address	142.251.33.68 - 121 other sites hosted on this server
+  
+IP Location	United States - Washington - Seattle - Google
+ASN	United States AS15169 GOOGLE, US (registered Mar 30, 2000)
+IP History	665 changes on 665 unique IP addresses over 20 years	  
+Registrar History	3 registrars with 2 drops	  
+Whois Record ( last updated on 2024-02-16 )
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04+00:00
+        2019-09-09
+Creation Date: 1997-09-15T07:00:00+00:00
+        1997-09-15
+Registrar Registration Expiration Date: 2028-09-13T07:00:00+00:00
+        2028-09-14
+Registrar: MarkMonitor, Inc.
+        MarkMonitor Inc.
+Sponsoring Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2086851750
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: Google LLC
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: CA
+Registrant Postal Code: 
+Registrant Country: US
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: Google LLC
+Admin Street: 
+Admin City: 
+Admin State/Province: CA
+Admin Postal Code: 
+Admin Country: US
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: Google LLC
+Tech Street: 
+Tech City: 
+Tech State/Province: CA
+Tech Postal Code: 
+Tech Country: US
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        ns1.google.com
+        ns2.google.com
+        ns3.google.com
+        ns4.google.com
+DNSSEC: unsigned
+
+
+Whois Record for Netflix.com
+How does this work?
+
+ Domain Profile
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+IANA ID: 292
+URL: http://www.markmonitor.com
+Whois Server: whois.markmonitor.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited
+Dates	9,593 days old
+Created on 1997-11-11
+Expires on 2025-11-10
+Updated on 2023-10-09	  
+Name Servers	NS-1372.AWSDNS-43.ORG (has 52,210 domains)
+NS-1984.AWSDNS-56.CO.UK (has 399 domains)
+NS-659.AWSDNS-18.NET (has 27 domains)
+NS-81.AWSDNS-10.COM (has 1,468 domains)
+  
+IP Address	44.240.158.19 - 2 other sites hosted on this server
+  
+IP Location	United States - Oregon - Boardman - Amazon.com Inc.
+ASN	United States AS16509 AMAZON-02, US (registered May 04, 2000)
+Domain Status	Registered And No Website
+IP History	396 changes on 396 unique IP addresses over 19 years	  
+Registrar History	2 registrars with 2 drops	  
+Hosting History	6 changes on 6 unique name servers over 17 years	  
+Whois Record ( last updated on 2024-02-16 )
+Domain Name: netflix.com
+Registry Domain ID: 1404215_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-10-09T11:01:36+00:00
+        2023-10-09
+Creation Date: 1997-11-11T05:00:00+00:00
+        1997-11-11
+Registrar Registration Expiration Date: 2025-11-10T00:00:00+00:00
+        2025-11-10
+Registrar: MarkMonitor, Inc.
+        MarkMonitor Inc.
+Sponsoring Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2086851750
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: Netflix, Inc.
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: CA
+Registrant Postal Code: 
+Registrant Country: US
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: Netflix, Inc.
+Admin Street: 
+Admin City: 
+Admin State/Province: CA
+Admin Postal Code: 
+Admin Country: US
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: Netflix, Inc.
+Tech Street: 
+Tech City: 
+Tech State/Province: CA
+Tech Postal Code: 
+Tech Country: US
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        ns-1372.awsdns-43.org
+        ns-1984.awsdns-56.co.uk
+        ns-659.awsdns-18.net
+        ns-81.awsdns-10.com
+DNSSEC: unsigned
+
+
+Whois Record for SalesForce.com
+How does this work?
+
+ Domain Profile
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+IANA ID: 292
+URL: http://www.markmonitor.com
+Whois Server: whois.markmonitor.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited
+Dates	9,207 days old
+Created on 1998-12-02
+Expires on 2024-10-21
+Updated on 2023-05-18	  
+Name Servers	PCH1.SALESFORCE-DNS.COM (has 6 domains)
+PCH1.SALESFORCE-DNS.COM. (has 6 domains)
+PCH2.SALESFORCE-DNS.COM (has 6 domains)
+PCH2.SALESFORCE-DNS.COM. (has 6 domains)
+UDNS1.SALESFORCE.COM (has 569 domains)
+UDNS2.SALESFORCE.COM (has 569 domains)
+UDNS3.SALESFORCE.COM (has 569 domains)
+UDNS4.SALESFORCE.COM (has 569 domains)
+  
+IP Address	184.28.93.9 - 47 other sites hosted on this server
+  
+IP Location	United States - Washington - Seattle - Akamai Technologies Inc.
+ASN	United States AS20940 AKAMAI-ASN1 Akamai International B.V., NL (registered Jul 10, 2001)
+IP History	386 changes on 386 unique IP addresses over 19 years	  
+Registrar History	2 registrars with 4 drops	  
+Hosting History	9 changes on 5 unique name servers over 18 years	  
+Whois Record ( last updated on 2024-02-16 )
+Domain Name: salesforce.com
+Registry Domain ID: 
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-05-18T14:40:00+00:00
+        2023-05-18
+Creation Date: 1998-12-02T05:00:00+00:00
+        1998-12-02
+Registrar Registration Expiration Date: 2024-10-21T00:00:00+00:00
+        2024-10-21
+Registrar: MarkMonitor, Inc.
+        MarkMonitor Inc.
+Sponsoring Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2086851750
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY (DT)
+Registrant Organization: Salesforce.com, Inc.
+Registrant Street: Salesforce Tower, 415 Mission Street, 3rd Floor
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94105
+Registrant Country: US
+Registrant Phone: +1.8006676389
+Registrant Phone Ext: 
+Registrant Fax: +1.4159017040
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY (DT)
+Admin Organization: Salesforce.com, Inc.
+Admin Street: Salesforce Tower, 415 Mission Street, 3rd Floor
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 94105
+Admin Country: US
+Admin Phone: REDACTED FOR PRIVACY (DT)
+Admin Phone Ext: 
+Admin Fax: REDACTED FOR PRIVACY (DT)
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY (DT)
+Tech Organization: Salesforce.com, Inc.
+Tech Street: Salesforce Tower, 415 Mission Street, 3rd Floor
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 94105
+Tech Country: US
+Tech Phone: REDACTED FOR PRIVACY (DT)
+Tech Phone Ext: 
+Tech Fax: REDACTED FOR PRIVACY (DT)
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        pch1.salesforce-dns.com
+        pch1.salesforce-dns.com.
+        pch2.salesforce-dns.com
+        pch2.salesforce-dns.com.
+        udns1.salesforce.com
+        udns2.salesforce.com
+        udns3.salesforce.com
+        udns4.salesforce.com
+Registry ID: 4623063_DOMAIN_COM-VRSN
+DNSSEC: signedDelegation
+
+
+amazon.com
+Updated 1 day ago
+Domain Information
+Domain:
+amazon.com
+Registrar:
+MarkMonitor Inc.
+Registered On:
+1994-11-01
+Expires On:
+2024-10-30
+Updated On:
+2023-05-16
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+ns1.amzndns.co.uk
+ns1.amzndns.com
+ns1.amzndns.net
+ns1.amzndns.org
+ns2.amzndns.co.uk
+ns2.amzndns.com
+ns2.amzndns.net
+ns2.amzndns.org
+Registrant Contact
+Name:
+Hostmaster, Amazon Legal Dept.
+Organization:
+Amazon Technologies, Inc.
+Street:
+P.O. Box 8102
+City:
+Reno
+State:
+NV
+Postal Code:
+89507
+Country:
+US
+Phone:
++1.2062664064
+Fax:
++1.2062667010
+Email:
+email@amazon.com
+Administrative Contact
+Name:
+Hostmaster, Amazon Legal Dept.
+Organization:
+Amazon Technologies, Inc.
+Street:
+P.O. Box 8102
+City:
+Reno
+State:
+NV
+Postal Code:
+89507
+Country:
+US
+Phone:
++1.2062664064
+Fax:
++1.2062667010
+Email:
+email@amazon.com
+Technical Contact
+Name:
+Hostmaster, Amazon Legal Dept.
+Organization:
+Amazon Technologies, Inc.
+Street:
+P.O. Box 8102
+City:
+Reno
+State:
+NV
+Postal Code:
+89507
+Country:
+US
+Phone:
++1.2062664064
+Fax:
++1.2062667010
+Email:
+email@amazon.com
+Raw Whois Data
+Domain Name: amazon.com
+Registry Domain ID: 281209_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-05-16T18:56:31+0000
+Creation Date: 1994-11-01T05:00:00+0000
+Registrar Registration Expiration Date: 2024-10-30T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Hostmaster, Amazon Legal Dept.
+Registrant Organization: Amazon Technologies, Inc.
+Registrant Street: P.O. Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 89507
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext: 
+Registrant Fax: +1.2062667010
+Registrant Fax Ext: 
+Registrant Email: email@amazon.com
+Registry Admin ID: 
+Admin Name: Hostmaster, Amazon Legal Dept.
+Admin Organization: Amazon Technologies, Inc.
+Admin Street: P.O. Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 89507
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext: 
+Admin Fax: +1.2062667010
+Admin Fax Ext: 
+Admin Email: email@amazon.com
+Registry Tech ID: 
+Tech Name: Hostmaster, Amazon Legal Dept.
+Tech Organization: Amazon Technologies, Inc.
+Tech Street: P.O. Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 89507
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext: 
+Tech Fax: +1.2062667010
+Tech Fax Ext: 
+Tech Email: email@amazon.com
+Name Server: ns1.amzndns.net
+Name Server: ns1.amzndns.com
+Name Server: ns2.amzndns.org
+Name Server: ns1.amzndns.co.uk
+Name Server: ns2.amzndns.net
+Name Server: ns2.amzndns.com
+Name Server: ns1.amzndns.org
+Name Server: ns2.amzndns.co.uk
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-02-15T18:43:07+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+----
+
+
+georgebrown.ca
+Updated 1 second ago
+Domain Information
+Domain:
+georgebrown.ca
+Registrar:
+Webnames.ca Inc.
+Registered On:
+2002-07-04
+Expires On:
+2024-07-04
+Updated On:
+2024-01-20
+Status:
+clientTransferProhibited
+Name Servers:
+ns1.d-zone.ca
+ns1.georgebrown.ca
+ns2.d-zone.ca
+ns2.georgebrown.ca
+Registrant Contact
+Name:
+Omid Fekri
+Organization:
+George Brown College
+Street:
+P.O. Box 1015 Station B
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5T2T9
+Country:
+CA
+Phone:
++1.4164155000
+Email:
+email@georgebrown.ca
+Administrative Contact
+Name:
+Omid Fekri
+Organization:
+George Brown College
+Street:
+P.O. Box 1015 Station B
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5T2T9
+Country:
+CA
+Phone:
++1.4164155000
+Email:
+email@georgebrown.ca
+Technical Contact
+Name:
+Dorin Grunberg
+Organization:
+George Brown College
+Street:
+P.O. Box 1015 Station B
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5T2T9
+Country:
+CA
+Phone:
++1.4164155000
+Email:
+email@georgebrown.ca
+Raw Whois Data
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2024-01-20T16:01:37Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2024-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: email@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: Omid Fekri
+Registrant Organization: George Brown College
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Omid Fekri
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-02-16T19:35:39Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2024 Canadian Internet Registration Authority, (http://www.cira.ca/)
