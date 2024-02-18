@@ -1,0 +1,23 @@
+root@comp3134Winter2024:~# tcpdump -i eth0 port 22
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+22:30:02.209187 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 958537236:958537344, ack 1194316876, win 501, length 108
+22:30:02.209333 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 108:144, ack 1, win 501, length 36
+22:30:02.209379 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 144:196, ack 1, win 501, length 52
+22:30:02.209452 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 196:264, ack 1, win 501, length 68
+22:30:02.209535 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 264:332, ack 1, win 501, length 68
+22:30:02.209629 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 332:368, ack 1, win 501, length 36
+22:30:02.213390 IP 198.96.84.204.50860 > comp3134Winter2024.ssh: Flags [.], ack 108, win 510, length 0
+22:30:02.213390 IP 198.96.84.204.50860 > comp3134Winter2024.ssh: Flags [.], ack 196, win 509, length 0
+22:30:02.216960 IP 198.96.84.204.50860 > comp3134Winter2024.ssh: Flags [.], ack 332, win 509, length 0
+22:30:02.258078 IP 198.96.84.204.50860 > comp3134Winter2024.ssh: Flags [.], ack 368, win 509, length 0
+22:30:02.315371 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 368:540, ack 1, win 501, length 172
+22:30:02.315581 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 540:576, ack 1, win 501, length 36
+22:30:02.315730 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 576:732, ack 1, win 501, length 156
+22:30:02.315825 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 732:768, ack 1, win 501, length 36
+22:30:02.315920 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 768:924, ack 1, win 501, length 156
+22:30:02.316006 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 924:960, ack 1, win 501, length 36
+22:30:02.316095 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 960:1116, ack 1, win 501, length 156
+22:30:02.316162 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 1116:1152, ack 1, win 501, length 36
+22:30:02.316278 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 1152:1308, ack 1, win 501, length 156
+22:30:02.316459 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 1308:1344, ack 1, win 501, length 36

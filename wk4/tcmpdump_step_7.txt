@@ -1,0 +1,14 @@
+root@comp3134Winter2024:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+22:21:38.639103 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 958400912:958400956, ack 1194315160, win 501, length 44
+22:21:38.639167 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 44:96, ack 1, win 501, length 52
+22:21:38.639220 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 96:164, ack 1, win 501, length 68
+22:21:38.639284 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 164:232, ack 1, win 501, length 68
+22:21:38.639361 IP comp3134Winter2024.ssh > 198.96.84.204.50860: Flags [P.], seq 232:268, ack 1, win 501, length 36
+22:21:38.642475 IP 198.96.84.204.50860 > comp3134Winter2024.ssh: Flags [.], ack 44, win 509, length 0
+22:21:38.642476 IP 198.96.84.204.50860 > comp3134Winter2024.ssh: Flags [.], ack 164, win 509, length 0
+22:21:38.642476 IP 198.96.84.204.50860 > comp3134Winter2024.ssh: Flags [.], ack 268, win 509, length 0
+22:21:43.444524 IP 107.151.201.114.40722 > comp3134Winter2024.imaps: Flags [S], seq 2138285610, win 1024, length 0
+22:21:50.372435 IP 80.66.83.68.61000 > comp3134Winter2024.38091: Flags [S], seq 402990248, win 1024, length 0
+22:21:55.068249 IP 79.110.62.79.48081 > comp3134Winter2024.39764: Flags [S], seq 2333984054, win 1024, length 0
+22:21:55.688061 IP 79.110.62.186.52048 > comp3134Winter2024.43381: Flags [S], seq 2041110039, win 1024, length 0

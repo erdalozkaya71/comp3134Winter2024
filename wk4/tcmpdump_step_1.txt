@@ -1,0 +1,88 @@
+root@comp3134Winter2024:~# tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+22:06:33.523549 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 1583373201:1583373309, ack 2630445657, win 501, length 108
+22:06:33.523684 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 108:196, ack 1, win 501, length 88
+22:06:33.523759 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 196:264, ack 1, win 501, length 68
+22:06:33.523820 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 264:332, ack 1, win 501, length 68
+22:06:33.523885 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 332:368, ack 1, win 501, length 36
+22:06:33.530349 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 108, win 511, length 0
+22:06:33.530687 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 264, win 511, length 0
+22:06:33.530687 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 368, win 510, length 0
+22:06:33.622512 IP comp3134Winter2024.42407 > 67.207.67.2.domain: 37343+ [1au] PTR? 204.84.96.198.in-addr.arpa. (55)
+22:06:33.622657 IP comp3134Winter2024.48979 > 67.207.67.2.domain: 28376+ [1au] PTR? 204.84.96.198.in-addr.arpa. (55)
+22:06:33.641823 IP 67.207.67.2.domain > comp3134Winter2024.42407: 37343 NXDomain 0/1/1 (120)
+22:06:33.642136 IP comp3134Winter2024.42407 > 67.207.67.2.domain: 37343+ PTR? 204.84.96.198.in-addr.arpa. (44)
+22:06:33.653012 IP 67.207.67.2.domain > comp3134Winter2024.48979: 28376 NXDomain 0/1/1 (120)
+22:06:33.653222 IP comp3134Winter2024.48979 > 67.207.67.2.domain: 28376+ PTR? 204.84.96.198.in-addr.arpa. (44)
+22:06:33.654003 IP 67.207.67.2.domain > comp3134Winter2024.42407: 37343 NXDomain 0/1/0 (109)
+22:06:33.654045 IP 67.207.67.2.domain > comp3134Winter2024.48979: 28376 NXDomain 0/1/0 (109)
+22:06:39.746042 IP comp3134Winter2024.41631 > 67.207.67.2.domain: 47311+ [1au] PTR? 131.38.198.143.in-addr.arpa. (56)
+22:06:39.778852 IP 67.207.67.2.domain > comp3134Winter2024.41631: 47311 NXDomain 0/1/1 (123)
+22:06:39.779029 IP comp3134Winter2024.41631 > 67.207.67.2.domain: 47311+ PTR? 131.38.198.143.in-addr.arpa. (45)
+22:06:39.779970 IP 67.207.67.2.domain > comp3134Winter2024.41631: 47311 NXDomain 0/1/0 (112)
+22:06:39.780629 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 368:1324, ack 1, win 501, length 956
+22:06:39.781006 IP comp3134Winter2024.34300 > 67.207.67.2.domain: 50121+ [1au] PTR? 2.67.207.67.in-addr.arpa. (53)
+22:06:39.781153 IP comp3134Winter2024.60417 > 67.207.67.2.domain: 15634+ [1au] PTR? 2.67.207.67.in-addr.arpa. (53)
+22:06:39.781956 IP 67.207.67.2.domain > comp3134Winter2024.34300: 50121 NXDomain 0/1/1 (120)
+22:06:39.782004 IP 67.207.67.2.domain > comp3134Winter2024.60417: 15634 NXDomain 0/1/1 (120)
+22:06:39.782081 IP comp3134Winter2024.34300 > 67.207.67.2.domain: 50121+ PTR? 2.67.207.67.in-addr.arpa. (42)
+22:06:39.782127 IP comp3134Winter2024.60417 > 67.207.67.2.domain: 15634+ PTR? 2.67.207.67.in-addr.arpa. (42)
+22:06:39.782828 IP 67.207.67.2.domain > comp3134Winter2024.34300: 50121 NXDomain 0/1/0 (109)
+22:06:39.783081 IP 67.207.67.2.domain > comp3134Winter2024.60417: 15634 NXDomain 0/1/0 (109)
+22:06:39.933169 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 1324, win 512, length 0
+22:06:45.923199 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 1324:3672, ack 1, win 501, length 2348
+22:06:45.926919 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 3672, win 512, length 0
+22:06:45.997105 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 3672:3932, ack 1, win 501, length 260
+22:06:46.046074 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 3932, win 511, length 0
+22:06:46.101114 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 3932:4192, ack 1, win 501, length 260
+22:06:46.156636 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 4192, win 510, length 0
+22:06:46.205277 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 4192:4452, ack 1, win 501, length 260
+22:06:46.251656 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 4452, win 509, length 0
+22:06:46.309098 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 4452:4712, ack 1, win 501, length 260
+22:06:46.362270 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 4712, win 508, length 0
+22:06:46.413176 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 4712:4972, ack 1, win 501, length 260
+22:06:46.472969 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 4972, win 512, length 0
+22:06:46.517092 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 4972:5232, ack 1, win 501, length 260
+22:06:46.568735 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 5232, win 511, length 0
+22:06:46.621127 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 5232:5492, ack 1, win 501, length 260
+22:06:46.679858 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 5492, win 510, length 0
+22:06:46.725120 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 5492:5752, ack 1, win 501, length 260
+22:06:46.774251 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 5752, win 509, length 0
+22:06:46.829205 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 5752:6012, ack 1, win 501, length 260
+22:06:46.885272 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 6012, win 508, length 0
+22:06:46.933161 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 6012:6272, ack 1, win 501, length 260
+22:06:46.980287 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 6272, win 512, length 0
+22:06:47.037206 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 6272:6532, ack 1, win 501, length 260
+22:06:47.091190 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 6532, win 511, length 0
+22:06:47.141210 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 6532:6792, ack 1, win 501, length 260
+22:06:47.186536 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 6792, win 510, length 0
+22:06:47.245197 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 6792:7052, ack 1, win 501, length 260
+22:06:47.298156 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 7052, win 509, length 0
+22:06:47.349155 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 7052:7312, ack 1, win 501, length 260
+22:06:47.409088 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 7312, win 508, length 0
+22:06:47.453169 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 7312:7572, ack 1, win 501, length 260
+22:06:47.504651 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 7572, win 512, length 0
+22:06:47.557140 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 7572:7832, ack 1, win 501, length 260
+22:06:47.614616 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 7832, win 511, length 0
+22:06:47.661109 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 7832:8092, ack 1, win 501, length 260
+22:06:47.726144 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 8092, win 510, length 0
+22:06:47.765138 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 8092:8352, ack 1, win 501, length 260
+22:06:47.822567 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 8352, win 509, length 0
+22:06:47.869123 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 8352:8612, ack 1, win 501, length 260
+22:06:47.917907 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 8612, win 508, length 0
+22:06:47.973093 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 8612:8872, ack 1, win 501, length 260
+22:06:48.028683 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 8872, win 512, length 0
+22:06:48.077127 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 8872:9132, ack 1, win 501, length 260
+22:06:48.122866 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 9132, win 511, length 0
+22:06:48.181226 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 9132:9392, ack 1, win 501, length 260
+22:06:48.233845 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 9392, win 510, length 0
+22:06:48.285187 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 9392:9652, ack 1, win 501, length 260
+22:06:48.344280 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 9652, win 509, length 0
+22:06:48.389056 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 9652:9912, ack 1, win 501, length 260
+22:06:48.439486 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 9912, win 508, length 0
+22:06:48.493077 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 9912:10172, ack 1, win 501, length 260
+22:06:48.550167 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 10172, win 512, length 0
+22:06:48.597160 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 10172:10440, ack 1, win 501, length 268
+22:06:48.645535 IP 198.96.84.204.53479 > comp3134Winter2024.ssh: Flags [.], ack 10440, win 511, length 0
+22:06:48.701107 IP comp3134Winter2024.ssh > 198.96.84.204.53479: Flags [P.], seq 10440:10708, ack 1, win 501, length 268
