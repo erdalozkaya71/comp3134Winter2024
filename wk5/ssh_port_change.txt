@@ -1,0 +1,179 @@
+kars3@Erdal MINGW64 ~ (master)
+$ ssh root@143.198.38.131
+root@143.198.38.131's password:
+Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 5.15.0-94-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Fri Mar  8 18:49:29 UTC 2024
+
+  System load:  0.0                Users logged in:       0
+  Usage of /:   21.7% of 24.05GB   IPv4 address for eth0: 143.198.38.131
+  Memory usage: 59%                IPv4 address for eth0: 10.20.0.5
+  Swap usage:   0%                 IPv4 address for eth1: 10.118.0.2
+  Processes:    105
+
+Expanded Security Maintenance for Applications is not enabled.
+
+64 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+1 additional security update can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+
+*** System restart required ***
+********************************************************************************
+
+Welcome to DigitalOcean's 1-Click LAMP Droplet.
+To keep this Droplet secure, the UFW firewall is enabled.
+All ports are BLOCKED except 22 (SSH), 80 (HTTP), and 443 (HTTPS).
+
+In a web browser, you can view:
+ * The LAMP 1-Click Quickstart guide: https://do.co/3gY97ha#start
+ * Your LAMP website: http://143.198.38.131
+
+On the server:
+ * The default web root is located at /var/www/html
+ * If you're using the embedded database, the MySQL root password
+   is saved in /root/.digitalocean_password. If you've opted in to
+   using a DBaaS instance with DigitalOcean, you will find your
+   credentials written to /root/.digitalocean_dbaas_credentials
+   and you will have access to a DATABASE_URL environment variable
+   holding your database connection string.
+ * Certbot is preinstalled. Run it to configure HTTPS. See
+   https://do.co/3gY97ha#enable-https for more detail.
+
+For help and more information, visit https://do.co/3gY97ha
+
+********************************************************************************
+To delete this message of the day: rm -rf /etc/update-motd.d/99-one-click
+Last login: Tue Mar  5 20:33:24 2024 from 65.93.223.86
+root@comp3134Winter2024:~# sudo nano /etc/ssh/sshd_config
+root@comp3134Winter2024:~# sudo ufw allow 2222/tcp
+Rule added
+Rule added (v6)
+root@comp3134Winter2024:~# sudo service sshd restart
+root@comp3134Winter2024:~# ssh -p 2222 root@143.198.38.131
+The authenticity of host '[143.198.38.131]:2222 ([143.198.38.131]:2222)' can't be established.
+ED25519 key fingerprint is SHA256:GT/J/Vv6BPR6Elb2C9hA8DDinaH3VsZZ/WrvowckcDo.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '[143.198.38.131]:2222' (ED25519) to the list of known hosts.
+root@143.198.38.131's password:
+Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 5.15.0-94-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Fri Mar  8 18:52:42 UTC 2024
+
+  System load:  0.0                Users logged in:       1
+  Usage of /:   21.7% of 24.05GB   IPv4 address for eth0: 143.198.38.131
+  Memory usage: 60%                IPv4 address for eth0: 10.20.0.5
+  Swap usage:   0%                 IPv4 address for eth1: 10.118.0.2
+  Processes:    106
+
+Expanded Security Maintenance for Applications is not enabled.
+
+64 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+1 additional security update can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+
+*** System restart required ***
+********************************************************************************
+
+Welcome to DigitalOcean's 1-Click LAMP Droplet.
+To keep this Droplet secure, the UFW firewall is enabled.
+All ports are BLOCKED except 22 (SSH), 80 (HTTP), and 443 (HTTPS).
+
+In a web browser, you can view:
+ * The LAMP 1-Click Quickstart guide: https://do.co/3gY97ha#start
+ * Your LAMP website: http://143.198.38.131
+
+On the server:
+ * The default web root is located at /var/www/html
+ * If you're using the embedded database, the MySQL root password
+   is saved in /root/.digitalocean_password. If you've opted in to
+   using a DBaaS instance with DigitalOcean, you will find your
+   credentials written to /root/.digitalocean_dbaas_credentials
+   and you will have access to a DATABASE_URL environment variable
+   holding your database connection string.
+ * Certbot is preinstalled. Run it to configure HTTPS. See
+   https://do.co/3gY97ha#enable-https for more detail.
+
+For help and more information, visit https://do.co/3gY97ha
+
+********************************************************************************
+To delete this message of the day: rm -rf /etc/update-motd.d/99-one-click
+Last login: Fri Mar  8 18:49:30 2024 from 198.96.84.204
+root@comp3134Winter2024:~# sudo nano /etc/ssh/sshd_config
+root@comp3134Winter2024:~# sudo ufw delete allow 2222/tcp
+Rule deleted
+Rule deleted (v6)
+root@comp3134Winter2024:~# sudo service sshd restart
+root@comp3134Winter2024:~# ssh root@143.198.38.131
+The authenticity of host '143.198.38.131 (143.198.38.131)' can't be established.
+ED25519 key fingerprint is SHA256:GT/J/Vv6BPR6Elb2C9hA8DDinaH3VsZZ/WrvowckcDo.
+This host key is known by the following other names/addresses:
+    ~/.ssh/known_hosts:1: [hashed name]
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '143.198.38.131' (ED25519) to the list of known hosts.
+root@143.198.38.131's password:
+Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 5.15.0-94-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Fri Mar  8 18:55:07 UTC 2024
+
+  System load:  0.14208984375      Users logged in:       1
+  Usage of /:   21.7% of 24.05GB   IPv4 address for eth0: 143.198.38.131
+  Memory usage: 61%                IPv4 address for eth0: 10.20.0.5
+  Swap usage:   0%                 IPv4 address for eth1: 10.118.0.2
+  Processes:    112
+
+Expanded Security Maintenance for Applications is not enabled.
+
+64 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+1 additional security update can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+
+*** System restart required ***
+********************************************************************************
+
+Welcome to DigitalOcean's 1-Click LAMP Droplet.
+To keep this Droplet secure, the UFW firewall is enabled.
+All ports are BLOCKED except 22 (SSH), 80 (HTTP), and 443 (HTTPS).
+
+In a web browser, you can view:
+ * The LAMP 1-Click Quickstart guide: https://do.co/3gY97ha#start
+ * Your LAMP website: http://143.198.38.131
+
+On the server:
+ * The default web root is located at /var/www/html
+ * If you're using the embedded database, the MySQL root password
+   is saved in /root/.digitalocean_password. If you've opted in to
+   using a DBaaS instance with DigitalOcean, you will find your
+   credentials written to /root/.digitalocean_dbaas_credentials
+   and you will have access to a DATABASE_URL environment variable
+   holding your database connection string.
+ * Certbot is preinstalled. Run it to configure HTTPS. See
+   https://do.co/3gY97ha#enable-https for more detail.
+
+For help and more information, visit https://do.co/3gY97ha
+
+********************************************************************************
+To delete this message of the day: rm -rf /etc/update-motd.d/99-one-click
+Last login: Fri Mar  8 18:52:43 2024 from 143.198.38.131
+root@comp3134Winter2024:~# exit
