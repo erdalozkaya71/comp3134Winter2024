@@ -1,0 +1,5 @@
+1) The PHP script sending_info_to_app_1.php directly outputs any user input via a GET form 
+without any filtering.
+
+2) The PHP script sending_info_to_app_2.php includes input sanitization, using either strip_tags() 
+to remove HTML tags or htmlspecialchars() to convert special characters into HTML entities.

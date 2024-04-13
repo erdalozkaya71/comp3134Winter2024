@@ -1,0 +1,19 @@
+1) Searched Word in URL Path
+
+When searching for a word, it is appended to the URL as a route parameter 
+like this: https://www.dictionary.com/browse/<word-you-searched>.
+
+2) Handling Non-Existent Words
+
+If the searched word does not exist, the user is redirected to a page that reads the route parameter 
+and displays a message: "No results found for pookiebear."
+
+3) Script Handling in Search Query
+
+Entering script tags as a search query is recognized as invalid. In the URL, it appears encoded 
+as https://www.dictionary.com/browse/%3Cscript%3Ealert(%2527hello%2527)%3C%2Fscript%3E.
+
+4) Script Injection in URL
+
+Attempting to inject a script directly in the URL (e.g., https://www.dictionary.com<script>alert('hello')</script>/browse/hello) results
+in the browser treating it as a Google search rather than processing it on the Dictionary.com site.

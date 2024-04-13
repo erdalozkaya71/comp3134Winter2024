@@ -1,0 +1,7 @@
+I see:
+The browser displays the result of running a PHP script that lists the contents of a directory on the server. 
+This directory listing includes various system directories like backup, cache, lib, and more.
+
+Sensitive information displayed by this page includes:
+* Directory Structure: It shows the directory structure of the server.
+* Server Configuration: Certain directory names could hint at specific applications or services running on the server.

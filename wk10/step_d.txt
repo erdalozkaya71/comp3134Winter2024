@@ -1,0 +1,9 @@
+There are two warning messages:
+
+1) A scandir() function failure with the parameter "Hello", indicating there's no such directory or file. 
+2) A scandir() function failure without any parameter provided (due to the default value '.'), which usually lists the current directory's contents. 
+
+Sensitive information given by this page includes:
+* Server path disclosure: The warning messages reveal the server's file path (/var/www/html/directory_traversal_part1.php), which is sensitive information. 
+* Server IP or hostname: If present in the URL or elsewhere on the page, this information could also be used for targeting the server.
+* PHP errors and configuration

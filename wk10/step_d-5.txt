@@ -1,0 +1,5 @@
+I see: 
+The browser is displaying a directory listing from a server, revealing the structure within the web root. 
+
+Sensetive information given
+It shows the presence of an html directory.

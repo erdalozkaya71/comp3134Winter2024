@@ -1,0 +1,2 @@
+I changed the HTML comments <!--   --> to PHP comments by enclosing the comments 
+within PHP tags and using the // syntax.  <?php //   ?>

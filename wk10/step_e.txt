@@ -1,0 +1,4 @@
+To mitigate directory traversal and ensure security:
+- Used basename() to restrict path traversal outside the web root.
+- Checked if the directory exists using file_exists() and is_dir() before listing contents.
+- Prevented the passing of filenames by checking for the presence of a dot in the path parameter.
