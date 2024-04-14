@@ -1,0 +1,4 @@
+Stored cross-site scripting occurs when an application unsafely stores user input and 
+subsequently includes it in future responses. This script, once embedded, is displayed to all users 
+who visit the website. If these users interact with the script by clicking a link contained within it, 
+they may unwittingly become victims of malware or similar harmful software without their knowledge.

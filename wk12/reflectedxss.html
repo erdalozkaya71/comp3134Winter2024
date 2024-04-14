@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Reflected XSS Test Page</h1>
+    <form onsubmit="event.preventDefault(); document.getElementById('output').i>
+        <input type="text" id="input">
+        <input type="submit" value="Submit">
+    </form>
+    <div id="output"></div>
+</body>
+</html>

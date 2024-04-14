@@ -1,0 +1,9 @@
+a. Using csfr_form.php with CSRF Protection
+Procedure: Submitted the form with valid credentials and a correct CSRF token.
+Outcome: Submission succeeded with a "Success" message, indicating effective CSRF protection.
+b. Simulated CSRF Attack
+Procedure: Attempted to submit from a modified form lacking a correct CSRF token.
+Outcome: Submission failed, showing that the CSRF protection successfully blocked unauthorized requests.
+Observations
+The CSRF protection worked as expected, preventing unauthorized form submissions and enhancing security.
+No vulnerabilities were observed during the tests.
